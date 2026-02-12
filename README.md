@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sripriya 👋
 
-<!--
-**Sripriya-D/Sripriya-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Generative AI Engineer with experience in building intelligent systems across machine learning, deep learning, and cloud deployment.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Machine Learning & Deep Learning
+- Multimodal AI Systems
+- AI Model Deployment
+- Cloud & Containerization
+- End-to-End AI Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Multimodal Sentiment Analysis
+
+## Tech Stack
+Python | PyTorch | TensorFlow | Scikit-learn  
+Docker | AWS | Azure | REST APIs | Git 
+
+Always building. Always learning.
+
